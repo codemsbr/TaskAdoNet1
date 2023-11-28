@@ -9,7 +9,6 @@
 --	UserName nvarchar(30) not null unique,
 --	UserEmailAddress nvarchar(260) not null unique,
 --	Password nvarchar(max) not null,
---	Salt nvarchar(max) not null
 --)
 
 --alter TABLE Users
